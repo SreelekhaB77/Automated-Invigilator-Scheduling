@@ -11,6 +11,9 @@ gem 'rails', '~> 7.0.8.7'
 
 gem 'activesupport', '>= 6.1', '< 7.1'
 
+gem 'concurrent-ruby', '1.3.4'
+
+
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3','~> 1.4'
