@@ -284,6 +284,7 @@ DEPENDENCIES
   jquery-rails
   listen (~> 3.5)
   puma (~> 3.7)
+  rack (~> 2.2.10)
   rails (~> 7.0.8.7)
   sass-rails (~> 5.0)
   selenium-webdriver
